@@ -17,9 +17,14 @@ Hi! I'm a BSIT student. I love technology and the color blue. I'm still learning
 - **Section** BSIT 3-106
 - **Year Level:** 3rd Year
 
-## Education
-- BS Information Technology, STI Ortigas, Cainta (2024 - Present)
-- Senior High School, ACLC Taytay (2023 - 2024)
+## Favorite Movie/series
+- She's Dating a Gangster
+- Hunter x Hunter
+- The Hows of Us
+- From Me To You
+- Hello Love Goodbye
+- Horror Movies
+- Your Name
 
 ## Hobbies
 - Taekwondo
